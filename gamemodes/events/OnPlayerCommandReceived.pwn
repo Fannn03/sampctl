@@ -1,5 +1,4 @@
-public OnPlayerCommandReceived(playerid, cmdtext[]) {
-  print("berak");
-
+OnPlayerCommandReceived(playerid, cmdtext[]) {
+  
   return 1;
 }
