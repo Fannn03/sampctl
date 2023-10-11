@@ -1,7 +1,7 @@
 {
 	"user": "Fannn03",
 	"repo": "sampctl",
-	"entry": "main.pwn",
+	"entry": "gamemodes/main.pwn",
 	"output": "gamemodes/main.amx",
 	"dependencies": [
 		"pawn-lang/samp-stdlib",
@@ -15,9 +15,6 @@
 		"rcon_password": "password",
 		"port": 7777,
 		"hostname": "SA-MP Server",
-		"plugins": [
-			"sscanf2"
-		],
 		"maxplayers": 50,
 		"language": "",
 		"mapname": "San Andreas",
