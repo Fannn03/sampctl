@@ -2,13 +2,18 @@
 #include <sscanf2>
 #include <izcmd>
 
+#include "utils/coordinates.pwn"
+
+#include "commands/admin/kill.pwn"
 #include "commands/admin/mypos.pwn"
 #include "commands/admin/vehicle.pwn"
 
 #include "events/OnPlayerConnect.pwn"
 #include "events/OnPlayerRequestClass.pwn"
+#include "events/OnPlayerRequestSpawn.pwn"
 #include "events/OnPlayerCommandReceived.pwn"
 #include "events/OnPlayerCommandPerformed.pwn"
+
 
 main() {}
 
